@@ -1,6 +1,7 @@
 ### README
 
-请在Linux下运行本代码，并配置好相关环境及编译器。需要安装OpenSSL。所引用的库函数如下：
+本项目是哈尔滨工业大学（威海）网络空间安全专业的课程设计，主要包括对Diffle-Hellman协议的实现、中间人模拟攻击和使用PKI、PSK进行改进的模拟代码。
+请在Linux（ubuntu）下运行本代码，并配置好相关环境及编译器。需要安装OpenSSL。所引用的库函数如下：
 
 ```c++
 #include <iostream>
